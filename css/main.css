@@ -501,15 +501,15 @@ textarea.form-control, textarea.form-control:focus {
 .my-photo {
   position: relative;
   margin: 30px auto 20px;
-  max-width: 110px;
+  max-width: 250px;
   text-align: center;
   z-index: 0;
 }
 
 .my-photo img {
   position: relative;
-  border-radius: 200px;
-  border: 2px solid #e5e5e5;
+  /*border-radius: 200px;
+  border: 2px solid #e5e5e5;*/
 }
 
 .site-title-block {
